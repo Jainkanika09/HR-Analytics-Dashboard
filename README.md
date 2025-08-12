@@ -106,7 +106,8 @@ Here are some of the main charts from the dashboard:
 - Salary distribution by job role and education: Higher roles like Managers have higher salaries; advanced education correlates with better pay.
 
 ### 6. Tabular Data Summary
-![Tabular Data](tabular-data.png)
+![Tabular Data](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Tabular%20data.png)
+
 
 A summarized table by job role, satisfaction, involvement, performance, and department:
 - Total Attrition Count: 237
