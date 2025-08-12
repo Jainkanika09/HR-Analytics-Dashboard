@@ -86,7 +86,8 @@ Here are some of the main charts from the dashboard:
 - HR: 63 employees (4%).
 
 ### 4. Employee Count Page
-![Employee Count Dashboard Page](employee-count-page.png)
+![Employee Count Dashboard Page](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Employee%20count%20data.png)
+
 
 - Attrition by department: R&D has the highest count (~140), followed by Sales (~90), HR (~5).
 - Job roles: Sales Executive is the most common, followed by Research Scientist and Laboratory Technician.
