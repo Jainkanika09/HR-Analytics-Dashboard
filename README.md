@@ -63,7 +63,8 @@ Departments: R&D (961 employees), Sales (446), HR (63)
 Here are some of the main charts from the dashboard:
 
 ### 1. Sum of Total Experience by Department
-![Sum of Total Experience by Department](sum-total-experience.png)
+![Sum of Total Experience by Department](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Department%20by%20total%20experience.png)
+
 
 - R&D: Highest total experience (~11,000 years), indicating a more seasoned workforce.
 - Sales: ~5,000 years.
