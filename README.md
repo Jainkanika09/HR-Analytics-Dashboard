@@ -1,6 +1,7 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard Title](hr-analytics-dashboard-title.png)
+![HR Analytics Dashboard Title](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Intoduction.png)
+
 
 ## Overview
 
