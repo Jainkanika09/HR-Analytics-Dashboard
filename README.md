@@ -71,7 +71,8 @@ Here are some of the main charts from the dashboard:
 - HR: ~700 years.
 
 ### 2. Sum of Training Times Last Year by Department
-![Sum of Training Times Last Year by Department](sum-training-times.png)
+![Sum of Training Times Last Year by Department](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Count%20by%20Department.png)
+
 
 - R&D: Highest training investment (~2,800 sessions).
 - Sales: ~1,270 sessions.
