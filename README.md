@@ -61,7 +61,7 @@ Departments: R&D (961 employees), Sales (446), HR (63)
 
 ## Key Visualizations
 
-Here are some of the main charts from the dashboard:
+The project includes interactive dashboard elements (built with tools like Tableau or Power BI, based on the Excel data). The first three graphs support tooltips for precise values on hover.
 
 ### 1. Sum of Total Experience by Department
 ![Sum of Total Experience by Department](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Department%20by%20total%20experience.png)
@@ -140,7 +140,7 @@ These insights can guide HR strategies, such as targeted training for Sales/HR, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
+   git clone https://github.com/jainkanika09/hr-analytics-dashboard.git
    ```
 
 2. Open the dashboard file (e.g., `HR_Analytics_Dashboard.pbix` if using Power BI) or view the Excel data in `HR Data - Dashboard.xlsx`.
