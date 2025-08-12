@@ -96,7 +96,8 @@ Here are some of the main charts from the dashboard:
 - Overtime employees: 416.
 
 ### 5. Salary Data Page
-![Salary Data Dashboard Page](salary-data-page.png)
+![Salary Data Dashboard Page](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Employee%20salary%20data.png)
+
 
 - Total yearly salary: ₹30,941,200.
 - Average monthly income: ~₹6,503.
