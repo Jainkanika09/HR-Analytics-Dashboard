@@ -78,7 +78,8 @@ Here are some of the main charts from the dashboard:
 - HR: Lowest (~200 sessions).
 
 ### 3. Count of Employees by Department
-![Count of Employees by Department](employee-count-department.png)
+![Count of Employees by Department](https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Count%20by%20Department.png)
+
 
 - R&D dominates with 961 employees (65% of total).
 - Sales: 446 employees (30%).
