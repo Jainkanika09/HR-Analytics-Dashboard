@@ -1,6 +1,7 @@
 HR Analytics Dashboard
 ImageView link https://github.com/Jainkanika09/HR-Analytics-Dashboard/blob/main/Intoduction.png
 
+
 Overview
 This repository contains an HR Analytics Dashboard built to visualize and analyze employee data from a company dataset. The dashboard focuses on key HR metrics such as employee count, attrition rates, total experience, training times, job satisfaction, salary distribution, and more. It uses visualizations like bar charts, funnel charts, area charts, and tabular views to provide actionable insights for HR decision-making.
 The dataset includes 1,470 employee records with attributes like age, education, job role, department, attrition status, salary, performance ratings, and work experience. The dashboard is divided into multiple pages:
